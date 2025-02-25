@@ -2,8 +2,6 @@
 
 A simple PowerShell utility to rescue windows that are stuck off-screen after disconnecting monitors or changing display settings.
 
-WindowRescuer provides a simple graphical interface to find and move lost windows back to a visible position on your screen.
-
 ## Features
 
 - Lists all open windows on your system
@@ -37,7 +35,7 @@ This copy-paste method helps bypass security restrictions that might prevent the
   ```
   Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
   ```
-  Then try running the script again.
+  Then try running the script again. For more information, please conduct your own research online. Powershell permissions issues can be complicated and are outside of the scope of this repository.
 
 - **Window still not showing**: Some applications might need to be restarted to properly reset their position.
 
