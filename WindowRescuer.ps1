@@ -78,7 +78,7 @@ $enumWindowsCallback = {
 
 # Create the Windows Form
 $form = New-Object System.Windows.Forms.Form
-$form.Text = "Reset Window Position"
+$form.Text = "Window Rescuer"
 $form.Size = New-Object System.Drawing.Size(600, 400)
 $form.StartPosition = "CenterScreen"
 
