@@ -34,6 +34,11 @@ This copy-paste method helps bypass security restrictions that might prevent the
 
 ## Troubleshooting
 
+- **How to download a file from Github**: In the list of files at the top of this page, select `WindowRescuer.ps1`. In the page it opens, look for the download button a the top right. This will always be the most up to date version.
+![image](https://github.com/user-attachments/assets/b0ed869b-b376-4b7a-abc5-08df318b3fd6)
+
+
+
 - **"Running scripts is disabled on this system"**: Run PowerShell as Administrator and enter:
   ```
   Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
