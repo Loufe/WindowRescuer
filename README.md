@@ -44,7 +44,7 @@ This copy-paste method helps bypass security restrictions that might prevent the
 
 ## License
 
-Copyright © Louis Bernardi 2025
+Copyright © Lou Bernardi 2025
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
