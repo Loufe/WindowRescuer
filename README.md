@@ -2,6 +2,9 @@
 
 A simple PowerShell utility to rescue windows that are stuck off-screen after disconnecting monitors or changing display settings.
 
+![image](https://github.com/user-attachments/assets/03e2e16c-cd89-4866-8f04-cac9ff05c357)
+
+
 ## Features
 
 - Lists all open windows on your system
